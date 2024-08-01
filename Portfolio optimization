@@ -1,0 +1,9 @@
+Developed a portfolio optimization model using Modern Portfolio Theory (MPT) to construct an optimal investment portfolio that maximizes the Sharpe ratio, balancing returns and risk. The project involved analyzing historical stock data, calculating expected returns and covariances, and optimizing asset allocation to enhance portfolio performance.
+Data Collection & Processing: Utilized Yahoo Finance API to gather historical stock data for a set of five major companies. Processed and cleaned data using pandas to ensure accuracy and completeness.
+Financial Analysis: Calculated daily returns, mean returns, and covariance matrix of stock prices to evaluate risk and return metrics.
+Optimization: Implemented the optimization model using the scipy.optimize.minimize function to find the optimal portfolio weights that maximize the Sharpe ratio.
+Visualization: Created an efficient frontier plot to visualize the risk-return trade-off and identify the optimal portfolio with the highest Sharpe ratio.
+Technologies Used:
+
+Python Libraries: yfinance, pandas, numpy, matplotlib, scipy
+Platform: Google Colab
