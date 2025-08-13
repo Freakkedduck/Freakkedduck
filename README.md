@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kunal;FastAPI+|+Python+|+AI+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kunal;Data,+|+Data+|+Data" />
 </p>
 
 
