@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning about **GenAI and LLMs**
 - 👯 I’m looking to collaborate on **open-source & impactful projects**
-- 💬 Ask me about **Python, ML, LLMs, Data Analysis or FastAPI**
-
 
 ---
 
