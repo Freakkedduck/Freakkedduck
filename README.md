@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data Analytics, AI, Machine Learning, GenAI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kunal;Data,+Data,+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kunal />
 </p>
 
 
@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakkedduck&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freakkedduck&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
