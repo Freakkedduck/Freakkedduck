@@ -38,13 +38,10 @@ I'm interested in understanding messy business problems, finding the signal in d
 
 ###  What you'll find here
 
-- Mostly experiments, dashboards, analytics projects, automation ideas, and things I'm building while learning.
-
-- Some projects will be polished.
-
-- Some will probably be terrible.
-
-- That's part of the process.
+ Mostly experiments, dashboards, analytics projects, automation ideas, and things I'm building while learning.
+ Some projects will be polished.
+ Some will probably be terrible.
+ That's part of the process.
 
 ---
 
