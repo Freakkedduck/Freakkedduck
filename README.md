@@ -1,40 +1,61 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center"> Data Analytics, Machine Learning, Artifical Intelligence </h3>
+
+<h3 align="center">Business × Data × AI × Product</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kunal />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Building+with+Python+%26+SQL;Exploring+AI+%26+Analytics;Business+problems+%E2%86%92+Data+%E2%86%92+Insights" />
 </p>
-
 
 ---
 
-### 🛠️ Languages and Tools
+###  A little about me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+I like working at the intersection of **business, data, and technology**.
+
+I'm interested in understanding messy business problems, finding the signal in data, and building tools or dashboards that make the answer easier to act on.
+
+---
+
+###  Things I work with
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
-
 
 ---
 
+###  What you'll find here
 
-### 🌐 Connect with Me
+- Mostly experiments, dashboards, analytics projects, automation ideas, and things I'm building while learning.
 
-<p align="left">
-  <a href="https://linkedin.com/in/kunalrao01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+- Some projects will be polished.
+
+- Some will probably be terrible.
+
+- That's part of the process.
+
+---
+
+###  Find me elsewhere
+
+<p align="center">
+  <a href="https://linkedin.com/in/kunalrao01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kunalrao438@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="mailto:kunalrao438@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
